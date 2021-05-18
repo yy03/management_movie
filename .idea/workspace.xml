@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MovieMangement:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdf007cc-6394-44a3-a246-d7ccd65ba6e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="movie_mangement: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="applicationContext.xml" />
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="mybatis-config.xml" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\localRepository" />
+        <option name="userSettingsFile" value="C:\Users\10255\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1leRnDANMT1RgsngNFVk5YF7ixk" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34314626" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Moven_Project\MovieMangement\web\jsp" />
+      <recent name="D:\Moven_Project\MovieMangement\web" />
+      <recent name="D:\Moven_Project\MovieMangement\web\WEB-INF\jsp" />
+      <recent name="D:\Moven_Project\MovieMangement\web\statics\css" />
+      <recent name="D:\Moven_Project\MovieMangement\src\main\java\com\zyh\dao\user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Moven_Project\MovieMangement\out\artifacts\MovieMangement_war_exploded\pictureUpload" />
+      <recent name="D:\Moven_Project\MovieMangement\src\main\java\com\zyh\dao\type" />
+      <recent name="D:\Moven_Project\MovieMangement" />
+      <recent name="D:\Moven_Project\MovieMangement\out\artifacts\MovieMangement_war_exploded" />
+      <recent name="D:\Moven_Project\MovieMangement\out\artifacts\MovieMangement_war_exploded\WEB-INF\jsp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.51" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.51" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="MovieMangement:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MovieMangement_7" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56749" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MovieMangement:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdf007cc-6394-44a3-a246-d7ccd65ba6e9" name="Default Changelist" comment="" />
+      <created>1607955734865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607955734865</updated>
+      <workItem from="1607955739852" duration="48040000" />
+      <workItem from="1608104403366" duration="49159000" />
+      <workItem from="1608258409138" duration="26364000" />
+      <workItem from="1608437712033" duration="20495000" />
+      <workItem from="1608514049599" duration="13562000" />
+      <workItem from="1608777175102" duration="1121000" />
+      <workItem from="1608778310501" duration="16308000" />
+      <workItem from="1609852151116" duration="7425000" />
+      <workItem from="1610184617330" duration="995000" />
+      <workItem from="1610513360504" duration="597000" />
+      <workItem from="1610702758139" duration="16701000" />
+      <workItem from="1613610564744" duration="35000" />
+      <workItem from="1614676367309" duration="31000" />
+      <workItem from="1620919184867" duration="143000" />
+      <workItem from="1620919336440" duration="802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="100" key="#Project_Structure" timestamp="1620919211281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620919211281" />
+    <state x="414" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620919547722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620919547722" />
+    <state x="690" y="206" key="FileChooserDialogImpl" timestamp="1620919784164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="206" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620919784164" />
+    <state width="1280" height="351" key="GridCell.Tab.0.bottom" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state width="1280" height="351" key="GridCell.Tab.0.center" timestamp="1620920142485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142485" />
+    <state width="1280" height="351" key="GridCell.Tab.0.left" timestamp="1620920142485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142485" />
+    <state width="1280" height="351" key="GridCell.Tab.0.right" timestamp="1620920142485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142485" />
+    <state width="1280" height="351" key="GridCell.Tab.1.bottom" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state width="1280" height="351" key="GridCell.Tab.1.center" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state width="1280" height="351" key="GridCell.Tab.1.left" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state width="1280" height="351" key="GridCell.Tab.1.right" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state width="1280" height="351" key="GridCell.Tab.2.bottom" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state width="1280" height="351" key="GridCell.Tab.2.center" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state width="1280" height="351" key="GridCell.Tab.2.left" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state width="1280" height="351" key="GridCell.Tab.2.right" timestamp="1620920142486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="351" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620920142486" />
+    <state x="348" y="0" key="SettingsEditor" timestamp="1620919844397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="348" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620919844397" />
+  </component>
+</project>
